@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/kbrotskiy/hw06.svg?branch=master)](https://travis-ci.com/github/kbrotskiy/hw06)
-
 ## Homework VI
 
 После того, как вы настроили взаимодействие с системой непрерывной интеграции,</br>
